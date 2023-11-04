@@ -2,4 +2,4 @@
 
 
 * 1. Git e Versionamento
-* 2. Algoritmo
+* 2. Algoritmos
